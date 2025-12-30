@@ -1,62 +1,54 @@
+<!-- ================= HERO ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:232526,100:414345&height=190&section=header&text=Mohammed%20Farves&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Mohammed%20Farves&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-
-<!-- ===== TYPING INTRO ===== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Aspiring+Full+Stack+Developer;Frontend+Focused+Learner;Building+Real-World+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=58A6FF&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Aspiring+Full+Stack+Developer;Building+Cool+Real+World+Projects" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mohammedfarves&label=Profile%20Views&color=blueviolet&style=flat" />
 </p>
 
-<!-- ================= SKILL BADGES ================= -->
+<hr/>
+
+<!-- ================= TECH ICONS (APP STYLE) ================= -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,fastapi,flask,mongodb,mysql,postgres,git,github,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,fastapi,flask,mongodb,mysql,postgres,git,github,postman&theme=dark&perline=7" />
 </p>
 
----
+<hr/>
 
 <!-- ================= HERO IMAGE ================= -->
 <p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"
-    width="720"
-    alt="developer gif"
-  />
+  <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/night.gif" width="720" />
 </p>
 
 <hr/>
 
 <!-- ================= ABOUT ================= -->
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
 - 🎓 Computer Science Engineering student  
 - 💻 Interested in Frontend & Full Stack Development  
-- 🌱 Currently learning React & backend fundamentals  
-- 🚀 Building real-world projects for my portfolio  
+- 🌱 Learning React, backend frameworks & databases  
+- 🚀 Focused on building production-ready projects  
 
 ---
 
-<!-- ================= TECH STACK ================= -->
-### 🛠 Tech Stack
+<!-- ================= STACK DETAILS ================= -->
+## 🛠 Tech Stack
 
-<p align="left">
-  • Frontend: HTML, CSS, JavaScript, React  
-</p>
-<p align="left">
-  • Backend: Node.js (learning), Python  
-</p>
-<p align="left">
-  • Tools: Git, GitHub, VS Code, Power BI, Excel  
-</p>
+**Frontend:** HTML, CSS, JavaScript, React  
+**Backend:** Node.js, FastAPI, Flask, Python  
+**Databases:** MongoDB, MySQL, PostgreSQL, SQL  
+**Tools:** Git, GitHub, Postman, VS Code, Power BI  
 
 ---
 
-<!-- ================= GITHUB STATS ================= -->
-### 📊 GitHub Analytics
+<!-- ================= STATS ================= -->
+## 📊 GitHub Analytics
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mohammedfarves&show_icons=true&theme=github_dark&hide_border=true" />
@@ -65,8 +57,8 @@
 
 ---
 
-<!-- ================= CONTRIBUTION GRAPH ================= -->
-### 📈 Contribution Graph
+<!-- ================= GRAPH ================= -->
+## 📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammedfarves&theme=react-dark&hide_border=true" />
@@ -75,38 +67,34 @@
 ---
 
 <!-- ================= PROJECTS ================= -->
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
-#### 🏪 Krishna Stores Website  
-Responsive website built using **HTML, CSS, and JavaScript**  
+### 🏪 Krishna Stores Website  
+Responsive website built using HTML, CSS & JavaScript  
 🔗 https://github.com/mohammedfarves/krishna_stores  
 
----
+### 📊 Sales Dashboard  
+Data visualization using Excel & Power BI  
 
-#### 📊 Sales Dashboard  
-Data visualization using **Excel & Power BI**
-
----
-
-#### 🍔 Food Ordering Platform  
-Full stack project using **React, Node.js, and MySQL**
+### 🍔 Food Ordering Platform  
+Full stack project using React, Node.js & MySQL  
 
 ---
 
 <!-- ================= CONNECT ================= -->
-### 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/mohammedfarves">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://youtube.com/@FarvezTech">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/>
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  ⭐ If you like my work, consider starring my repositories!
+  ⭐ If you like my work, consider starring my repositories
 </p>
