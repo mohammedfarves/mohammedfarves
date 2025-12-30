@@ -20,9 +20,12 @@
 
 <hr/>
 
-<!-- ================= HERO IMAGE ================= -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/night.gif" width="720" />
+  <img 
+    src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"
+    width="720"
+    alt="developer gif"
+  />
 </p>
 
 <hr/>
