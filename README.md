@@ -22,9 +22,9 @@
 
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"
-    width="720"
-    alt="developer gif"
+    src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"
+    width="700"
+    alt="Developer working animation"
   />
 </p>
 
@@ -70,7 +70,7 @@
 ---
 ## 🚀 Featured Projects
 
-<table>
+<table align="center">
 <tr>
 <td width="50%" valign="top">
 
