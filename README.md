@@ -68,21 +68,61 @@
 </p>
 
 ---
-
-<!-- ================= PROJECTS ================= -->
 ## 🚀 Featured Projects
 
-### 🏪 Krishna Stores Website  
-Responsive website built using HTML, CSS & JavaScript  
-🔗 https://github.com/mohammedfarves/krishna_stores  
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 📊 Sales Dashboard  
-Data visualization using Excel & Power BI  
+### 🏪 Krishna Stores Website
+**Responsive E-Commerce UI**
 
-### 🍔 Food Ordering Platform  
-Full stack project using React, Node.js & MySQL  
+🛠 **Tech:** HTML · CSS · JavaScript  
+🎯 **Focus:** UI design, responsiveness, clean layout  
 
----
+🔗 **Repo:**  
+https://github.com/mohammedfarves/krishna_stores
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 Sales Dashboard
+**Data Visualization Project**
+
+🛠 **Tech:** Excel · Power BI  
+🎯 **Focus:** KPIs, charts, business insights  
+
+📈 **Highlights:**  
+Sales trends · Category analysis
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🍔 Food Ordering Platform
+**Full Stack Web Application**
+
+🛠 **Tech:** React · Node.js · MySQL  
+🎯 **Focus:** Auth, CRUD, order flow  
+
+⚙️ **Features:**  
+Login · Cart · Orders · Admin panel
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 More Projects Coming Soon
+**Continuous Learning**
+
+🚀 Currently building new full-stack and data projects  
+📌 Stay tuned for updates
+
+</td>
+</tr>
+</table>
+
 
 <!-- ================= CONNECT ================= -->
 ## 🌐 Connect With Me
