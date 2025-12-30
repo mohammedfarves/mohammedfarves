@@ -1,9 +1,5 @@
-<!-- ===== HERO BANNER ===== -->
-<h1 align="center">Hi 👋, I'm Mohammed Farves</h1>
-<h3 align="center">Aspiring Full Stack Developer | CSE Student</h3>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohammedfarves&label=Profile%20views&color=blueviolet&style=flat" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:232526,100:414345&height=190&section=header&text=Mohammed%20Farves&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 
